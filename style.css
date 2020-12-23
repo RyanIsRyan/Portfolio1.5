@@ -1,0 +1,27 @@
+
+*{
+    color:black
+    
+}
+
+*{
+    border:solid
+    
+}
+.header{
+   background-color:red;
+   display:flex;
+   justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.icons{
+    display: flex;
+    
+    justify-content:flex-start;
+    
+}
